@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiWiiDemo", "MultiWiiDemo\MultiWiiDemo.csproj", "{80251A35-76B7-4EE4-9E90-0F6738A6322D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiWiiSerialProtocalV2", "MultiWiiSerialProtocalV2\MultiWiiSerialProtocalV2.csproj", "{405C3A98-6400-4579-860E-DAD591377003}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80251A35-76B7-4EE4-9E90-0F6738A6322D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80251A35-76B7-4EE4-9E90-0F6738A6322D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80251A35-76B7-4EE4-9E90-0F6738A6322D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80251A35-76B7-4EE4-9E90-0F6738A6322D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{405C3A98-6400-4579-860E-DAD591377003}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{405C3A98-6400-4579-860E-DAD591377003}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{405C3A98-6400-4579-860E-DAD591377003}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{405C3A98-6400-4579-860E-DAD591377003}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D085E0C2-9169-45ED-8352-8BD74DE39093}
+	EndGlobalSection
+EndGlobal
